@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-ecommersfuenmayorcli-dev-173831-authRole",
+      "UnauthRoleArn": "arn:aws:iam::851725473462:role/amplify-ecommersfuenmayorcli-dev-173831-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::851725473462:role/amplify-ecommersfuenmayorcli-dev-173831-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-ecommersfuenmayorcli-dev-173831-deployment",
+      "UnauthRoleName": "amplify-ecommersfuenmayorcli-dev-173831-unauthRole",
+      "StackName": "amplify-ecommersfuenmayorcli-dev-173831",
+      "StackId": "arn:aws:cloudformation:us-east-1:851725473462:stack/amplify-ecommersfuenmayorcli-dev-173831/06780590-efa7-11ee-9fa4-0e0fa161dd99",
+      "AmplifyAppId": "d1ra16u2j1vcah"
+    },
+    "categories": {
+      "auth": {
+        "ecommersfuenmayorclidbb11005": {}
+      }
+    }
+  }
+}
